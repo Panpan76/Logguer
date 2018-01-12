@@ -1,4 +1,4 @@
-# Logguer for PHP 7
+# Logguer for PHP
 
 ## Documentation
 --------------
