@@ -1,4 +1,9 @@
-# Logguer for PHP
+# Logguer for PHP 7
+
+![Build](https://travis-ci.org/Panpan76/Logguer.svg?branch=master)
+[![codecov](https://codecov.io/gh/Panpan76/Logguer/branch/master/graph/badge.svg)](https://codecov.io/gh/Panpan76/Logguer)
+
+
 
 ## Documentation
 --------------

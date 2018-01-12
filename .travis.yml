@@ -1,0 +1,8 @@
+language: php
+php:
+  - '7.1.9'
+before_script: composer update
+script: phpunit --testsuite Tests --configuration Tests/phpunit.xml
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash) -t 5c10a45e-bed9-489b-b4c3-807e574f0aee
