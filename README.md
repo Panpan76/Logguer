@@ -3,6 +3,8 @@
 ## Documentation
 --------------
 
+There is 2 versions of this Logguer, one for PHP 7 (branch master-7) and one for PHP 5.6 (branch master-5.6)
+
 ### Init
 
 
